@@ -40,11 +40,7 @@ This project includes the following components built entirely in **Tableau**:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> Insert a screenshot of your dashboard here
-
-🔗 **[View on Tableau Public]((https://public.tableau.com/app/profile/jahnavi.enuganti6697/vizzes))**
+((https://public.tableau.com/app/profile/jahnavi.enuganti6697/vizzes))**
 
 ---
 
